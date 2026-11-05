@@ -1,0 +1,3 @@
+extra_student_files:
+- src/pages/templates/pages/index.html
+sandbox_image: eu.gcr.io/moocfi-public/tmc-sandbox-cyber-security-base
